@@ -27,7 +27,7 @@ Get A Pet é uma aplicação web que permite a adoção de animais de estimaçã
 1. Clone este repositório e instale as dependencias
 
 ````
-    git clone https://github.com/seu_usuario/get-a-pet-backend.git
+    git clone https://github.dev/Moscarde/GetAPet_API
     npm install
 ````
 
