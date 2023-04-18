@@ -1,5 +1,5 @@
 # Get A Pet - BackEnd
-<h1 align="center"><img src="header.jpg" alt="logo" width=700/></h1>
+<h1 align="center"><img src="pictures/header.png" alt="logo" width=700/></h1>
 Get A Pet é uma aplicação web que permite a adoção de animais de estimação. O objetivo deste projeto é fornecer uma API de back-end para uma aplicação front-end que permita que usuários cadastrem ou adotem animais de estimação.
 
 ⚠️ Este projeto faz parte do curso de <a href="https://www.udemy.com/course/nodejs-do-zero-a-maestria-com-diversos-projetos/">Node.js do Matheus Battisti!</a> 
